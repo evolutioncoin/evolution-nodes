@@ -1,0 +1,17 @@
+{
+  "nodes": [
+     {
+      "name": "Main EVC Node",
+      "url": "evolutioncoin.go.ro",
+      "port": 8117,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "FastPooL.XyZ public node", 
+      "url": "fastpool.xyz",
+      "port": 6969,
+      "ssl": false
+    }
+  ]
+}
